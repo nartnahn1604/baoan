@@ -103,7 +103,7 @@ html{
 }
 
  /* Main */
-#main{
+#container{
     background-color: var(--black);
 }
 
