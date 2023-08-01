@@ -1,0 +1,214 @@
+%!Adobe-FontList 1.22
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AltoneTrial-Regular
+FamilyName:Altone Trial
+StyleName:Regular
+FullName:Altone Trial Regular
+MenuName:Altone Trial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\AltoneTrial-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29484
+FileModTime:1657977752
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Altone Trial Regular
+NameArray:0,Win,1,Altone Trial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BookAntiqua
+FamilyName:Book Antiqua
+StyleName:Regular
+FullName:Book Antiqua
+MenuName:Book Antiqua
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\BKANT.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:155528
+FileModTime:1678416235
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Book Antiqua
+NameArray:0,Win,1,Book Antiqua
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic
+FamilyName:Century Gothic
+StyleName:Regular
+FullName:Century Gothic
+MenuName:Century Gothic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\GOTHIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:137568
+FileModTime:1678416237
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CenturyGothic-Bold
+FamilyName:Century Gothic
+StyleName:Bold
+FullName:Century Gothic Bold
+MenuName:Century Gothic
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\GOTHICB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:129676
+FileModTime:1678416237
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Century Gothic Bold
+NameArray:0,Win,1,Century Gothic
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Garet-Book
+FamilyName:Garet
+StyleName:Book
+FullName:Garet Book
+MenuName:Garet Book
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\Garet-Book.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:101976
+FileModTime:1652442394
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Garet Book
+NameArray:0,Win,1,Garet Book
+NameArray:0,Win,16,Garet
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Helvetica-Bold
+FamilyName:Helvetica
+StyleName:Bold
+FullName:Helvetica‭ ‬עבה
+MenuName:Helvetica
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\Helvetica-Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:308628
+FileModTime:1470395188
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Helvetica Bold
+NameArray:0,Mac,4,Helvetica 
+NameArray:0,Win,1,Helvetica
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Montserrat-Thin
+FamilyName:Montserrat
+StyleName:Thin
+FullName:Montserrat Thin
+MenuName:Montserrat Thin
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\Montserrat-VariableFont_wght.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:TrueTypeVariableFont
+FileLength:394140
+FileModTime:1323709200
+WeightClass:100
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Montserrat Thin
+NameArray:0,Win,16,Montserrat
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeueLight
+FamilyName:SVN-Helvetica Neue Light
+StyleName:Regular
+FullName:SVN-Helvetica Neue Light
+MenuName:SVN-Helvetica Neue Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\SVN-Helvetica Neue Light.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:95808
+FileModTime:1680075690
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue Light
+NameArray:0,Win,1,SVN-Helvetica Neue Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:SVN-HelveticaNeue
+FamilyName:SVN-Helvetica Neue
+StyleName:Regular
+FullName:SVN-Helvetica Neue
+MenuName:SVN-Helvetica Neue
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\PC\Desktop\Magazine Folder\Document fonts\SVN-Helvetica Neue Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:98412
+FileModTime:1680075690
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,SVN-Helvetica Neue
+NameArray:0,Win,1,SVN-Helvetica Neue
+%EndFont
+
